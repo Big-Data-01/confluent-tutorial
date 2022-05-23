@@ -23,7 +23,7 @@ To use confluent kafka we need following details from Confluent dashboard.
 confluentClusterName = ""
 confluentBootstrapServers = ""
 confluentTopicName = ""
-confluentApiKey = 
+confluentApiKey = ""
 confluentSecret = ""
 ```
 Add below library in requirements.txt
